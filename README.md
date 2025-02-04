@@ -34,7 +34,7 @@ System.out.println("Silver solution: " + silverSol);
 
 ```
 Absolute path: It is the complete address of a file or directory starting from the root of the file system.
-Relative path: It is a location relative to the current working directory, 
+Relative path: It is a location relative to the current working directory.
 ```
 
 * Test your code with the two test cases provided. If you would like you can create your own test cases.
