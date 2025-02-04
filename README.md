@@ -1,1 +1,1 @@
-# lab_08_usaco-
+# lab_08_usaco
