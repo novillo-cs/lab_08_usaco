@@ -9,6 +9,8 @@
 
 ## Directions:
 
+* Write the bronze and silver outlines in the files bronze.md and silver.md
+
 * Implement the solution for the bronze and silver problems. The following method must be implemented in the files Bronze.java and Silver.java. Do NOT change the method signature, if you do, you will lose points. 
   
 ```
